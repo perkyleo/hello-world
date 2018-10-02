@@ -1,2 +1,4 @@
 # hello-world
-The time-honored first project.
+
+Hi folks, this is my
+first project, following the **time-honored** tradition.
